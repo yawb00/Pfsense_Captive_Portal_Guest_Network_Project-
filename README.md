@@ -106,7 +106,7 @@ Services → Captive Portal
 
 * Name: `guest_portal`
 * Interface: `OPT1`
-* Enable Captive Portal ✔
+* Enable Captive Portal 
 
 ---
 
@@ -235,9 +235,9 @@ Status → Captive Portal → Disconnect All
 
 After fixes:
 
-✔ Login successful
-✔ Internet access granted
-✔ User visible under:
+ Login successful
+ Internet access granted
+ User visible under:
 
 ```
 Status → Captive Portal
@@ -288,7 +288,7 @@ Configured per-user limits:
 Tested:
 
 * Unauthenticated user tries browsing
-  ✔ Automatically redirected to login page
+   Automatically redirected to login page
 
 ---
 
